@@ -1,0 +1,16 @@
+2023-09-18 18:23:44,524 INFO c.s.m.MultipleDatabaseApplication [main] Starting MultipleDatabaseApplication using Java 19.0.2 with PID 7588 (D:\internship\Spring\multiple_database\target\classes started by ASHISH CHAUHAN in D:\internship\Spring\multiple_database)
+2023-09-18 18:23:44,555 DEBUG c.s.m.MultipleDatabaseApplication [main] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-09-18 18:23:44,557 INFO c.s.m.MultipleDatabaseApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-18 18:23:53,485 INFO c.s.m.MultipleDatabaseApplication [main] Started MultipleDatabaseApplication in 9.642 seconds (process running for 10.068)
+2023-09-18 18:24:11,539 INFO c.s.m.MultipleDatabaseApplication [main] Starting MultipleDatabaseApplication using Java 19.0.2 with PID 17232 (D:\internship\Spring\multiple_database\target\classes started by ASHISH CHAUHAN in D:\internship\Spring\multiple_database)
+2023-09-18 18:24:11,541 DEBUG c.s.m.MultipleDatabaseApplication [main] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-09-18 18:24:11,542 INFO c.s.m.MultipleDatabaseApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-18 18:24:17,240 INFO c.s.m.MultipleDatabaseApplication [main] Started MultipleDatabaseApplication in 6.49 seconds (process running for 6.999)
+2023-09-18 18:24:37,603 INFO c.s.m.MultipleDatabaseApplication [main] Starting MultipleDatabaseApplication using Java 19.0.2 with PID 15224 (D:\internship\Spring\multiple_database\target\classes started by ASHISH CHAUHAN in D:\internship\Spring\multiple_database)
+2023-09-18 18:24:37,604 DEBUG c.s.m.MultipleDatabaseApplication [main] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-09-18 18:24:37,605 INFO c.s.m.MultipleDatabaseApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-18 18:44:51,980 INFO c.s.m.MultipleDatabaseApplication [main] Starting MultipleDatabaseApplication using Java 19.0.2 with PID 16736 (D:\internship\Spring\multiple_database\target\classes started by ASHISH CHAUHAN in D:\internship\Spring\multiple_database)
+2023-09-18 18:44:51,981 DEBUG c.s.m.MultipleDatabaseApplication [main] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-09-18 18:44:51,982 INFO c.s.m.MultipleDatabaseApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-09-18 18:44:56,316 INFO c.s.m.MultipleDatabaseApplication [main] Started MultipleDatabaseApplication in 4.831 seconds (process running for 5.304)
+2023-09-18 18:44:56,320 ERROR c.s.m.MultipleDatabaseApplication [main] An error occurred
